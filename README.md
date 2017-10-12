@@ -7,6 +7,6 @@
 ----
 
 - [My blog](http://peterfisher.me.uk)
-- [How To Code Well YouTube channel]()
-- [Twitter @pfwd]()
+- [How To Code Well YouTube channel](http://youtube.com/howtocodewell)
+- [Twitter @pfwd](http://twitter.com/pfwd)
 
